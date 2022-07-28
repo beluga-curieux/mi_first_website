@@ -4,6 +4,7 @@ color: white;
 background-image: url(img.png);
 background-attachment: fixed; 
 background-position:120px 10px;
+text-align: center;
 }
 a{
 color: white;
