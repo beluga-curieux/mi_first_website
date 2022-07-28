@@ -7,8 +7,16 @@ background-position:120px 10px;
 text-align: center;
 }
 a{
-color: white;
+    color: white;
 }
 mark{
     background-color: rgba(0, 187, 255, 0.185);
+}
+#titre{
+    border: 1px brown dashed;
+    border-radius: 20% / 100%;
+}
+h1{
+    border: 1px brown dashed;
+    border-radius: 5% / 100%;
 }
